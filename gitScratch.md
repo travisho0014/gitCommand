@@ -79,9 +79,9 @@ git pull
 ###5. Update the workingspace file 
 
 ```{r}
-git push origin master 
+git push -u origin master 
 /* or */
-git push origin branceName 
+git push -u origin branceName 
 ```
 
 
